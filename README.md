@@ -18,7 +18,6 @@
 - 🔭 Working on **AI Automation Pipelines** and decentralized applications (**DApps**).
 - 🌱 Specialized in **Smart Contracts (Solidity)**, local blockchain orchestration, and multi-node ETL data flows.
 - 💬 Ask me about **Web3 Architecture, Data Scraping, or n8n Workflow Automation**.
-- 🎬 Fun fact: When I'm not writing smart contracts or analyzing data pipelines, I lead cinematic media production as the **Videography Head** for the UCP Adventure Club.
 
 ---
 
